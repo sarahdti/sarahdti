@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **Bootsrap 5**
+- 🌱 I’m currently learning **Bootsrap 5 and js **
 
-- 💬 Ask me about **HTML,CSS,js**
+- 💬 Ask me about **HTML , CSS , js **
 
 - 📫 How to reach me **hedayati.sara9877@gmail.com**
 
